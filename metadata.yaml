@@ -1,0 +1,27 @@
+_repo: En-Rusujo-per-Esperanto_42028
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42028-h/images/cover.png
+creator:
+  author:
+    agent_name: Rivier, A.
+    gutenberg_agent_id: '41486'
+    url: http://www.gutenberg.org/2009/agents/41486
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2013-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42028'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto'
+- !lcc 'PM'
+- !lcc 'DK'
+- !lcsh 'Russia -- Description and travel'
+title: En Rusujo per Esperanto
+url: http://www.gutenberg.org/ebooks/42028
