@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41486'
     url: http://www.gutenberg.org/2009/agents/41486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42028#En-Rusujo-per-Esperanto
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2013-02-06'
 gutenberg_type: Text
